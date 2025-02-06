@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/allenjames">
-    <img src="https://img.shields.io/github/followers/allenjames?label=Follow&style=social" alt="GitHub Followers"/>
+    <img src="https://img.shields.io/github/followers/allenJames-S?label=Follow&style=social" alt="GitHub Followers"/>
   </a>
   <img src="https://img.shields.io/badge/Location-New%20York-blue?style=flat-square" alt="Location"/>
   <img src="https://img.shields.io/badge/Tech-Go%20%7C%20Python%20%7C%20JavaScript-blue?style=flat-square" alt="Tech Stack"/>
