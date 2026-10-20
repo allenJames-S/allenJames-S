@@ -42,4 +42,4 @@ I’m a passionate developer with a focus on **AI/ML** and **scalable systems**.
 
 ---
 
-⭐️ From [Allen James](https://github.com/allenjames)
+⭐️ From [Allen James](https://github.com/allenJames-S/allenJames-S)
